@@ -1,4 +1,4 @@
-# -MEMORY-ALLOCATION
+# MEMORY ALLOCATION
 A C program to track dynamic memory allocation, detect leaks, and display usage reports using named variables.
 Memory management is a core aspect of systems-level programming in
 C. Unlike modern languages with automatic garbage collection, C
